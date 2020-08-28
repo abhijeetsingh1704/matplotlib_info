@@ -1,0 +1,11 @@
+{
+'Encapsulated Postscript': ['eps'], 
+'Joint Photographic Experts Group': ['jpeg', 'jpg'], 
+'Portable Document Format': ['pdf'], 
+'PGF code for LaTeX': ['pgf'], 
+'Portable Network Graphics': ['png'], 
+'Postscript': ['ps'], 
+'Raw RGBA bitmap': ['raw', 'rgba'], 
+'Scalable Vector Graphics': ['svg', 'svgz'], 
+'Tagged Image File Format': ['tif', 'tiff']
+}
